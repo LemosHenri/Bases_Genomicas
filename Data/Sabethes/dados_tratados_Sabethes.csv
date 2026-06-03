@@ -1,0 +1,14 @@
+SRA acc,Biosample acc,Bioproject acc,Taxonomia acc,Instrumento,Amostras,Bases,Tamanho,Organismo,Estratégia,Recurso,Seleção,Protocolo,Criação
+SRR22968076,SAMN31999455,PRJNA907815,865939,Illumina NovaSeq 6000,3065234,0.9,315.62,Sabethes chloropterus,Targeted-Capture,Genomic,Hybrid Selection,,2023/08/08
+SRR22968077,SAMN31999454,PRJNA907815,53552,Illumina NovaSeq 6000,2486009,0.8,261.18,Sabethes cyaneus,Targeted-Capture,Genomic,Hybrid Selection,,2023/08/08
+SRR21789874,SAMN31066106,PRJNA885106,53552,Illumina HiSeq 2500,113787023,14.2,6545.98,Sabethes cyaneus,RNA-Seq,Transcriptomic,Random,,2022/10/03
+SRR21789875,SAMN31066105,PRJNA885106,53552,Illumina HiSeq 2500,103330591,12.9,5946.55,Sabethes cyaneus,RNA-Seq,Transcriptomic,Random,,2022/10/03
+ERR9439513,SAMEA12928296,PRJEB51767,53552,Sequel II,1446663,15.0,9173.66,Sabethes cyaneus,WGS,Genomic,Random,PacBio - HiFi,2022/04/02
+ERR9439515,SAMEA12928296,PRJEB51767,53552,Sequel II,1119217,11.2,6995.08,Sabethes cyaneus,WGS,Genomic,Random,PacBio - HiFi,2022/04/01
+ERR9439514,SAMEA12928297,PRJEB51767,53552,Sequel II,712735,10.3,8167.17,Sabethes cyaneus,WGS,Genomic,Random,PacBio - HiFi,2022/04/01
+ERR9356863,SAMEA12928204,PRJEB51767,53552,Illumina HiSeq 4000,25090189,7.6,2852.25,Sabethes cyaneus,RNA-Seq,Transcriptomic,Polya,RNA-seq dUTP eukaryotic,2022/03/25
+ERR9356862,SAMEA12928297,PRJEB51767,53552,Illumina NovaSeq 6000,21873000,6.6,2130.67,Sabethes cyaneus,WGS,Genomic,Random,Chromium genome,2022/03/25
+ERR9356861,SAMEA12928297,PRJEB51767,53552,Illumina NovaSeq 6000,23122787,7.0,2247.95,Sabethes cyaneus,WGS,Genomic,Random,Chromium genome,2022/03/25
+ERR9356860,SAMEA12928297,PRJEB51767,53552,Illumina NovaSeq 6000,22077405,6.7,2185.56,Sabethes cyaneus,WGS,Genomic,Random,Chromium genome,2022/03/25
+ERR9356859,SAMEA12928297,PRJEB51767,53552,Illumina NovaSeq 6000,25122427,7.6,2452.67,Sabethes cyaneus,WGS,Genomic,Random,Chromium genome,2022/03/25
+ERR9356858,SAMEA12928297,PRJEB51767,53552,Illumina NovaSeq 6000,188522228,56.9,18169.59,Sabethes cyaneus,Hi-C,Genomic,Restriction Digest,Hi-C - Arima v2,2022/03/25
